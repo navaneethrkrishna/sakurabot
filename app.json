@@ -15,7 +15,7 @@
       "inline"
     ],
     "website": "https://github.com/EvamariaTG/EvaMaria",
-    "repository": "https://github.com/Masterrockiei/EvaMaria",
+    "repository": "https://github.com/navaneethrkrishna/sakurabot",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
